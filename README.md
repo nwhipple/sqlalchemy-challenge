@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+# I did most of the Jupyter Notebook with a TA, with the TA teaching it to me by walking me through step-by-step, but then I reopened it from scratch and redid it myself. There are a couple of spots where I got the TAs help (especially in steps 4 and 5 of the VS code), where I cited the assistance explicitly, but please note that almost all of the Jupyter code was done with assistance the first time around, and then I did it on my own a week later, so some of the assistance may have bleeded through my memory.
